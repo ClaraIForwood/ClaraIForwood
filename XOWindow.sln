@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOWindow", "XOWindow\XOWindow.csproj", "{66D20343-3A72-4758-9D9E-A5804229B626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D20343-3A72-4758-9D9E-A5804229B626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D20343-3A72-4758-9D9E-A5804229B626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D20343-3A72-4758-9D9E-A5804229B626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D20343-3A72-4758-9D9E-A5804229B626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9CCF0B7-3B94-4476-9B2F-039F10F1467D}
+	EndGlobalSection
+EndGlobal
