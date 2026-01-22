@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaraIForwood
-- 👀 I’m interested in many different things but right now trying to decide whether to major in SE or ME
-- 🌱 I’m currently learning C# and trying to understand what exactly is a .NET
+- 👀 I’m interested in many different things but I have a degree in EEENG
+- 🌱 I’m currently working on making my first website
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
