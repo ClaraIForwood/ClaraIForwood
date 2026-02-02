@@ -15,6 +15,7 @@ I'm a final-year engineering student at the University of Exeter with a passion 
 🛠️ Technical Skills
 Programming Languages:
 Python  |  MATLAB  |  C#  |  C  |  JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 
 💻 What I'm Working On
