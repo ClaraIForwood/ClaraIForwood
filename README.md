@@ -1,20 +1,18 @@
 ### Hi there, I'm Clara 👋
-Electrical & Electronic Engineering Student
-I'm a final-year engineering student at the University of Exeter with a passion for turning complex problems into elegant solutions. Currently exploring the intersection of engineering, data science, and AI.
+Electrical & Electronic Engineering Graduate from the University of Exeter
+I a passion for turning complex problems into elegant solutions. Most recently, you can find me in the Climate-atlas repository
 
 🚀 About Me
+- 🎓 Degree: BEng Electrical and Electronic Engineering (High 2:1)
+- 💼 Experience: 10-month industrial placement at Airbus Defence and Space + Will be joining Anemoi on the 22nd
 
-- 🎓 Studying: BEng Electrical and Electronic Engineering (Expected First)
-- 💼 Experience: 10-month industrial placement at Airbus Defence and Space
-- 🔬 Research: Deep learning applications in financial services
 
 
 💻 What I'm Working On
+- 🌐 Frequently updating my personal portfolio website at claraforwood.com
+- 📊 Researching Climate change models and global projections for liveability. 
+- 🤖 Experimenting with finding the best methods for this data visualisation. 
 
-- 🌐 Building my personal portfolio website at claraforwood.com (Learning React, Next.js and Tailwind CSS along the way)
-- 📊 Researching deep learning applications for stock market prediction
-- 🎮 Progressing on my side game dev project, Crash Site
-- 🤖 Experimenting with machine learning models and data visualization
 
 ---
  
